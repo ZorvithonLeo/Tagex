@@ -86,5 +86,6 @@ Feel free to contribute, create **issues**, and suggest new **features**! And Re
 
 ---
 
-![GitHub Views](https://img.shields.io/github/views/ZorvithonLeo/Tagex)
+https://img.shields.io/github/views/ZorvithonLeo/Tagex
+
 
