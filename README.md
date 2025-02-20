@@ -85,3 +85,6 @@
 Feel free to contribute, create **issues**, and suggest new **features**! And Remember Pro Tools need Pro users 
 
 ---
+
+![GitHub Views](https://img.shields.io/github/views/ZorvithonLeo/Tagex)
+
