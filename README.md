@@ -82,6 +82,6 @@
 ---
 
 ### 🖤 **Support and Contribute** 🖤  
-Feel free to contribute, create **issues**, and suggest new **features**!
+Feel free to contribute, create **issues**, and suggest new **features**! And Remember Pro Tools need Pro users 
 
 ---
